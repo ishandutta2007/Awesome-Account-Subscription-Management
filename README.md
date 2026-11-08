@@ -63,59 +63,59 @@ The table below benchmarks category-leading commercial SaaS platforms providing 
 
 Self-hosted identity governance, automated provisioning, authentication portals, and open-source subscription billing engines.
 
-*Sorted in descending order by GitHub Star count.*
+*Sorted in descending order by GitHub Stars_Count.*
 
-1. **[Keycloak](https://github.com/keycloak/keycloak)** [![GitHub stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers)
+1. **[Keycloak](https://github.com/keycloak/keycloak)** [![GitHub_Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers)
    - **Focus**: 🔑 Enterprise Identity and Access Management (IAM)
    - **License**: Apache-2.0 | **Stack**: Java, Quarkus, PostgreSQL / MySQL / CockroachDB
    - **Key Capabilities**: Industry-standard identity and access management providing OpenID Connect, OAuth 2.0, and SAML 2.0 broker services, user federation (LDAP, Active Directory), fine-grained authorization policies, identity brokering, and social login integration.
 
-2. **[Authelia](https://github.com/authelia/authelia)** [![GitHub stars](https://img.shields.io/github/stars/authelia/authelia?style=social&color=white)](https://github.com/authelia/authelia/stargazers)
+2. **[Authelia](https://github.com/authelia/authelia)** [![GitHub_Stars](https://img.shields.io/github/stars/authelia/authelia?style=social&color=white)](https://github.com/authelia/authelia/stargazers)
    - **Focus**: 🛡️ Single Sign-On & Two-Factor Authentication Portal
    - **License**: Apache-2.0 | **Stack**: Go, React, SQLite / PostgreSQL / MariaDB
    - **Key Capabilities**: Cloud-native authentication server providing multi-factor authentication (FIDO2 WebAuthn, TOTP, Duo) and SSO for reverse proxies (Traefik, NGINX, Caddy, Envoy) with OpenID Connect certification and post-quantum cryptography readiness.
 
-3. **[Zitadel](https://github.com/zitadel/zitadel)** [![GitHub stars](https://img.shields.io/github/stars/zitadel/zitadel?style=social&color=white)](https://github.com/zitadel/zitadel/stargazers)
+3. **[Zitadel](https://github.com/zitadel/zitadel)** [![GitHub_Stars](https://img.shields.io/github/stars/zitadel/zitadel?style=social&color=white)](https://github.com/zitadel/zitadel/stargazers)
    - **Focus**: 🏢 Multi-Tenant Identity Infrastructure & B2B IAM
    - **License**: Apache-2.0 | **Stack**: Go, CockroachDB / PostgreSQL
    - **Key Capabilities**: Turnkey B2B identity infrastructure built for SaaS architectures. Delivers native multi-tenancy, self-service organization management, delegated administration, audit logging, Passkeys/FIDO2, and OpenID Connect / SAML / OAuth support.
 
-4. **[SuperTokens Core](https://github.com/supertokens/supertokens-core)** [![GitHub stars](https://img.shields.io/github/stars/supertokens/supertokens-core?style=social&color=white)](https://github.com/supertokens/supertokens-core/stargazers)
+4. **[SuperTokens Core](https://github.com/supertokens/supertokens-core)** [![GitHub_Stars](https://img.shields.io/github/stars/supertokens/supertokens-core?style=social&color=white)](https://github.com/supertokens/supertokens-core/stargazers)
    - **Focus**: 🔄 Modular User Authentication & Session Governance
    - **License**: Apache-2.0 | **Stack**: Java, PostgreSQL / MySQL
    - **Key Capabilities**: Modular open-source alternative to Auth0/Firebase Auth. Provides resilient session management, automated token refresh rotation, passwordless login, social SSO, multi-factor authentication, and multi-tenant organizational isolation.
 
-5. **[Casdoor](https://github.com/casdoor/casdoor)** [![GitHub stars](https://img.shields.io/github/stars/casdoor/casdoor?style=social&color=white)](https://github.com/casdoor/casdoor/stargazers)
+5. **[Casdoor](https://github.com/casdoor/casdoor)** [![GitHub_Stars](https://img.shields.io/github/stars/casdoor/casdoor?style=social&color=white)](https://github.com/casdoor/casdoor/stargazers)
    - **Focus**: 🤖 Agentic & Multi-Protocol IAM Platform with SCIM
    - **License**: Apache-2.0 | **Stack**: Go, React, MySQL / PostgreSQL / SQL Server
    - **Key Capabilities**: Web UI-centric IAM supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, and **SCIM 2.0 user synchronization**. Features built-in enterprise connectors (Google Workspace, Azure AD, Okta), WebAuthn/MFA, and an agent gateway.
 
-6. **[Ory Kratos](https://github.com/ory/kratos)** [![GitHub stars](https://img.shields.io/github/stars/ory/kratos?style=social&color=white)](https://github.com/ory/kratos/stargazers)
+6. **[Ory Kratos](https://github.com/ory/kratos)** [![GitHub_Stars](https://img.shields.io/github/stars/ory/kratos?style=social&color=white)](https://github.com/ory/kratos/stargazers)
    - **Focus**: 👤 Headless Cloud-Native Identity & Account Lifecycle Management
    - **License**: Apache-2.0 | **Stack**: Go, PostgreSQL / CockroachDB / SQLite
    - **Key Capabilities**: Headless user management engine handling registration, multi-tenant profile management, passwordless flows, WebAuthn, TOTP MFA, self-service account recovery, and webhook-driven account lifecycle hooks.
 
-7. **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)
+7. **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub_Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)
    - **Focus**: 💳 Enterprise Subscription Billing & Payment Engine
    - **License**: Apache-2.0 | **Stack**: Java, MySQL / MariaDB / PostgreSQL
    - **Key Capabilities**: Production-grade subscription management and recurring billing engine operating since 2010. Delivers multi-tenant product catalogs, proration/upgrades, usage/metered billing, invoicing workflows, payment gateway plugins (Stripe, Adyen, Braintree), and tax integration with zero transaction fees.
 
-8. **[Evolveum MidPoint](https://github.com/Evolveum/midpoint)** [![GitHub stars](https://img.shields.io/github/stars/Evolveum/midpoint?style=social&color=white)](https://github.com/Evolveum/midpoint/stargazers)
+8. **[Evolveum MidPoint](https://github.com/Evolveum/midpoint)** [![GitHub_Stars](https://img.shields.io/github/stars/Evolveum/midpoint?style=social&color=white)](https://github.com/Evolveum/midpoint/stargazers)
    - **Focus**: 🏛️ Comprehensive Identity Governance & Administration (IGA)
    - **License**: EUPL-1.2 | **Stack**: Java, PostgreSQL
    - **Key Capabilities**: Full-featured enterprise IGA platform providing automated user provisioning, identity synchronization, entitlement management, role-based access control (RBAC), access certification campaigns, and comprehensive audit compliance reporting.
 
-9. **[Apache Syncope](https://github.com/apache/syncope)** [![GitHub stars](https://img.shields.io/github/stars/apache/syncope?style=social&color=white)](https://github.com/apache/syncope/stargazers)
+9. **[Apache Syncope](https://github.com/apache/syncope)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/syncope?style=social&color=white)](https://github.com/apache/syncope/stargazers)
    - **Focus**: 🔀 Open-Source Digital Identity & Provisioning Engine
    - **License**: Apache-2.0 | **Stack**: Java, Tomcat, PostgreSQL / MySQL / Oracle
    - **Key Capabilities**: Top-level ASF project delivering full identity lifecycle management (joiner, mover, leaver), access request approval workflows, password policies, and 16+ ConnId connectors (Active Directory, LDAP, SCIM, Azure, ServiceNow, Okta).
 
-10. **[FusionDirectory](https://github.com/fusiondirectory/fusiondirectory)** [![GitHub stars](https://img.shields.io/github/stars/fusiondirectory/fusiondirectory?style=social&color=white)](https://github.com/fusiondirectory/fusiondirectory/stargazers)
+10. **[FusionDirectory](https://github.com/fusiondirectory/fusiondirectory)** [![GitHub_Stars](https://img.shields.io/github/stars/fusiondirectory/fusiondirectory?style=social&color=white)](https://github.com/fusiondirectory/fusiondirectory/stargazers)
     - **Focus**: 📁 Web-Based LDAP Identity & Service Directory Management
     - **License**: GPL-2.0+ | **Stack**: PHP, OpenLDAP
     - **Key Capabilities**: Web application designed to manage directory services and corporate accounts within OpenLDAP. Provides unified administration of users, groups, mail accounts, DNS/DHCP configurations, and desktop service entitlements.
 
-11. **[Wren:IDM](https://github.com/WrenSecurity/wrenidm)** [![GitHub stars](https://img.shields.io/github/stars/WrenSecurity/wrenidm?style=social&color=white)](https://github.com/WrenSecurity/wrenidm/stargazers)
+11. **[Wren:IDM](https://github.com/WrenSecurity/wrenidm)** [![GitHub_Stars](https://img.shields.io/github/stars/WrenSecurity/wrenidm?style=social&color=white)](https://github.com/WrenSecurity/wrenidm/stargazers)
     - **Focus**: ⚙️ Scriptable Identity Management & Provisioning Framework
     - **License**: CDDL-1.0 | **Stack**: Java, Groovy / JavaScript
     - **Key Capabilities**: Community-driven fork of OpenIDM providing a flexible data model, scriptable identity synchronization rules (JavaScript/Groovy), connector framework integration, and event-triggered provisioning workflows.
